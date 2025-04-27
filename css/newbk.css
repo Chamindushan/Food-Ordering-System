@@ -1,0 +1,16 @@
+body{
+   background-color: lightsteelblue;
+   /* padding-bottom: 7rem; */
+}
+.header{
+  
+  background-color: var(--yellow);
+  
+}
+.orders .box-container .box p  {
+   text-align: center;
+
+}
+.category .box-container .box:hover{
+   background-color: var(--yellow);
+}
